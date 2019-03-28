@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Note
+title: Wiki
 description: 人越学越觉得自己无知
 keywords: 笔记, NOTE
 comments: false
-menu: NOTE
-permalink: /note/
+menu: 笔记
+permalink: /wiki/
 ---
 
 > 记多少命令和快捷键会让脑袋爆炸呢？
