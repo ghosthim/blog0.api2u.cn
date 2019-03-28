@@ -1,13 +1,11 @@
 ---
-layout:     post   				    # 使用的布局（不需要改）
-title:      Hey,My new BLOG				# 标题 
-subtitle:   Hello World, Hello Blog #副标题
-date:       2019-01-26  				# 时间
-author:     年轻的木子 						# 作者
-catalog: true 						# 是否归档
-tags:								#标签
-    - 生活
+layout: post
+title: Hello world,Hello Blog.
+categories: Blog
+description: 纪念新博客
+keywords: 2018, BLOG
 ---
+
 
 2019年1月26日 
 
