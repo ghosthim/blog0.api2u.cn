@@ -7,7 +7,7 @@ comments: true
 menu: 关于
 permalink: /about/
 ---
-本站搭建于![](https://youngje.me/images/wiki/github-pages.png)之上，感谢 GitHub 提供无限量免费的 Page 空间
+本站搭建于 `GitHub Page` 之上，感谢 GitHub 提供无限量免费的 Page 空间
 
 我是荣基。
 
