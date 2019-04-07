@@ -1,19 +1,16 @@
-- name: Software Engineer Keywords
+- name: 我會玩的遊戲
   keywords:
-      - Java
-      - C++
-      - Python
-      - Design Patterns
+      - APEX英雄
+      - 英雄聯盟
+      - 戰地風雲系列
+      - CS:GO
+      - 堡壘之夜
 
-- name: Mobile Developer Keywords
+- name: 我的興趣愛好
   keywords:
-      - Android
-      - Reverse Engineering
+      - 聽歌、聽歌、聽歌
+      - 看電影
+      - 偽極客
+     
 
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+
