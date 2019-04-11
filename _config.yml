@@ -44,7 +44,7 @@ navs:
 
 
   -
-    url: https://notes.youngje.me
+    href="https://notes.youngje.me"
     label: 随笔
  
   -
