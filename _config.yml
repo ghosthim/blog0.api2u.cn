@@ -41,6 +41,10 @@ navs:
   -
     href: /note/
     label: 笔记
+  
+  -
+    src: https://notes.youngje.me/
+    label: 随笔
 
   -
     href: /links/
