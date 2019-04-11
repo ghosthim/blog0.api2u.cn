@@ -43,7 +43,7 @@ navs:
     label: 笔记
   
   -
-    src: https://notes.youngje.me/
+    href: https://notes.youngje.me/
     label: 随笔
 
   -
