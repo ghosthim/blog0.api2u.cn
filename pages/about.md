@@ -7,7 +7,8 @@ comments: true
 menu: 关于
 permalink: /about/
 ---
-本站搭建于 `NetLify` 之上，感谢 NetLify 提供无限量免费的部署空间
+本站搭建于 `Netlify` 之上，感谢 Netlify 提供无限量免费的部署空间
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1a0ae327-3839-4330-9ad4-9be209f6f46d/deploy-status)](https://app.netlify.com/sites/tender-feynman-fdb755/deploys)
 
 
