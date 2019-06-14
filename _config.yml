@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://youngje.me
+url: https://blog.youngje.me
 date_format: "ordinal"
 title: 木子
 subtitle: "思想自由,言論自由"
