@@ -4,10 +4,10 @@
 baseurl:
 url: https://blog.youngje.me
 date_format: "ordinal"
-title: 木子
+title: api2u
 subtitle: "思想自由,言論自由"
-description: "YOUNGJE的个人博客"
-keywords: ghosthim, YOUNGJELEE, YOUNGJE, youngjelee
+description: "api2u's BLOG"
+keywords: ghosthim, YOUNGJELEE, YOUNGJE, youngjelee, api2u
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,7 +15,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Youngje Lee
+author: api2u
 organization: 
 organization_url: 
 github_username: ghosthim
