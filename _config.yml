@@ -2,9 +2,9 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://blog.youngje.me
+url: http://blog.api2u.cn
 date_format: "ordinal"
-title: api2u
+title: api2u's Blog
 subtitle: "思想自由,言論自由"
 description: "api2u's BLOG"
 keywords: ghosthim, YOUNGJELEE, YOUNGJE, youngjelee, api2u
@@ -20,7 +20,7 @@ organization:
 organization_url: 
 github_username: ghosthim
 location: Shandong, China
-email: ghosthim007@gmail.com
+email: me@api2u.cn
 
 # ---------------- #
 #    Navigation    #
@@ -121,7 +121,7 @@ repository: mzlogin/mzlogin.github.io
 # ---------------- #
 simple_jekyll_search:
     # 是否支持全文搜索
-    fulltext: false
+    fulltext: true
     # 最多显示多少条搜索结果
     limit: 10
 
