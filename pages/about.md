@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
+description: =)
 keywords: Youngje Lee, 荣基, api2u
 comments: true
 menu: 关于
@@ -18,7 +18,7 @@ permalink: /about/
 ## 联系
 
 {% for website in site.data.social %}
-* {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
+* {{ website.sitename }} [{{ website.name }}]({{ website.url }})
 {% endfor %}
 
 ## 我的简介
@@ -36,4 +36,4 @@ permalink: /about/
 > 本站部署于 `Netlify` 之上，感谢 Netlify 提供无限量免费的部署空间
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1a0ae327-3839-4330-9ad4-9be209f6f46d/deploy-status)](https://app.netlify.com/sites/tender-feynman-fdb755/deploys)
 
-请我喝咖啡:[![Donate](https://blog.youngje.me/images/wiki/donate.svg)](https://www.paypal.me/ghosthim)
+请我喝咖啡:[![Donate](https://ghosthim.github.io/images/wiki/donate.svg)](https://www.paypal.me/ghosthim)
