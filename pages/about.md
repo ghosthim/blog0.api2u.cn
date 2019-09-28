@@ -28,7 +28,7 @@ permalink: /about/
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
 {% endfor %}
 
-* Email: me # api2u.cn(#=@)
+* Email: me#api2u.cn(#=@)
 
 ## 我的简介
 
