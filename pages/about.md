@@ -17,9 +17,17 @@ permalink: /about/
 
 ## 联系
 
+
+喜欢自由，热爱自由。
+
+展现出自己最真实的一面，做最好的自己。
+
+## 联系
+
 {% for website in site.data.social %}
-* {{ website.sitename }}: [{{ website.name }}]({{ website.url }})
+* {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
 {% endfor %}
+
 * Email: me # api2u.cn(#=@)
 
 ## 我的简介
