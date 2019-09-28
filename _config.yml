@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://blog.api2u.cn
+url: https://blog.api2u.cn
 date_format: "ordinal"
 title: api2u's Blog
 subtitle: "思想自由,言論自由"
