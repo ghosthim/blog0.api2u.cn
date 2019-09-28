@@ -35,7 +35,6 @@ permalink: /about/
 {% endfor %}
 
 ## 杂七杂八
-> 本站部署于 `Netlify` 之上，感谢 Netlify 提供无限量免费的部署空间
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1a0ae327-3839-4330-9ad4-9be209f6f46d/deploy-status)](https://app.netlify.com/sites/tender-feynman-fdb755/deploys)
+
 
 请我喝咖啡:[![Donate](https://blog.api2u.cn/images/wiki/donate.svg)](https://www.paypal.me/ghosthim)
